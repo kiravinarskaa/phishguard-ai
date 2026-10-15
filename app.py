@@ -1,6 +1,7 @@
 # Gradio creates a simple web interface for our agent.
 import gradio as gr
 import json
+import os
 
 # Import Agent 1 from our existing project.
 from agents.email_triage_agent import analyze_email
@@ -43,8 +44,10 @@ demo = gr.Interface(
     description="Agent 1 — Email Triage & Social Engineering Analysis",
 )
 
-
 if __name__ == "__main__":
-    # share=True creates a temporary public URL
-    # that can be opened from another computer.
-    demo.launch(share=True)
+    port = int(os.environ.get("PORT", 7860))
+
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=port
+    )
