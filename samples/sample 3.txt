@@ -1,0 +1,13 @@
+From: HR Department <hr-support@example-company.com>
+Subject: Employee information verification
+
+We are updating employee records.
+
+Please reply with the following information:
+
+- Full name
+- Home address
+- Passport number
+- Date of birth
+
+This information must be submitted today.

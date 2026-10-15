@@ -1,0 +1,11 @@
+From: Project Manager <manager@example-company.com>
+Subject: Weekly team meeting
+
+Hello team,
+
+This is a reminder that our weekly project meeting will take place tomorrow at 10:00.
+
+We will review current tasks and discuss next week's priorities.
+
+Best regards,
+Project Manager

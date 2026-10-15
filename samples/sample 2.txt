@@ -1,0 +1,8 @@
+From: Finance Director <finance.director@example-corp.com>
+Subject: Urgent payment required today
+
+I need you to process an urgent payment of $4,850 before the end of the day.
+
+Please do not contact me by phone because I am currently in a meeting.
+
+Reply once the transfer has been completed.

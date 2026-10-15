@@ -1,0 +1,8 @@
+From: Billing Department <billing@example-vendor.com>
+Subject: Overdue invoice - immediate action required
+
+Your invoice is overdue.
+
+Failure to process the attached invoice today may result in account restrictions.
+
+Please review the document and confirm payment immediately.

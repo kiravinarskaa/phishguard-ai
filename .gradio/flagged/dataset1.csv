@@ -1,0 +1,10 @@
+Email,Agent Analysis,timestamp
+,,2026-10-15 10:48:13.118407
+"From: Microsoft Security <security@microsoft-support-example.com>
+Subject: Urgent account verification
+
+Your account will be suspended within 30 minutes.
+
+Please verify your account immediately:
+http://microsoft-security-example.com/login
+","{""urgency"": true, ""threat"": true, ""credential_request"": true, ""financial_request"": false, ""sensitive_data_request"": true, ""possible_impersonation"": true, ""social_engineering_techniques"": [""Urgency"", ""Threat of account suspension"", ""Impersonation of trusted brand""], ""preliminary_risk"": ""high"", ""explanation"": [""The email creates immediate urgency by stating the account will be suspended within 30 minutes."", ""It explicitly threatens a negative consequence (suspension) to compel immediate action."", ""It requests immediate verification which typically involves entering login credentials or accessing sensitive account data via the provided link."", ""The domain in the reply-to/sender address and the link do not match the official Microsoft domain, suggesting impersonation or spoofing attempts.""]}",2026-10-15 11:12:41.484792

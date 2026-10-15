@@ -1,0 +1,9 @@
+From: Microsoft Security <security@microsoft-support-example.com>
+Subject: Urgent account verification
+
+Your account will be suspended within 30 minutes.
+
+Please verify your account immediately:
+http://microsoft-security-example.com/login
+
+

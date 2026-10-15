@@ -1,0 +1,13 @@
+From: IT Security <security@example-company.com>
+Subject: Password policy reminder
+
+Hello,
+
+This is a reminder that company passwords must be updated every 90 days.
+
+Please use the official company portal if your password is due for renewal.
+
+If you need assistance, contact the IT help desk.
+
+Regards,
+IT Security

@@ -1,0 +1,8 @@
+From: Account Support <support@example-service.com>
+Subject: Password expiration notice
+
+Your password will expire soon.
+
+Please update your password as soon as possible to avoid losing access to your account.
+
+Use the account portal to complete the update.
